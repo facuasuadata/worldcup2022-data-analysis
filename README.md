@@ -102,8 +102,8 @@ Los datos corresponden a estadísticas oficiales del Mundial Qatar 2022 (FIFA), 
 
 ## 👤 Autor
 
-**facuasudata**  
-[GitHub](https://github.com/facuasudata) · Proyecto de análisis de datos deportivos
+**facuasuadata**  
+[GitHub](https://github.com/facuasuadata) · Proyecto de análisis de datos deportivos
 
 ---
 
